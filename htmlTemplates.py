@@ -33,7 +33,7 @@ css = '''
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2FStyleCraze&psig=AOvVaw26EBacYOZipX1Mg9LuC9i3&ust=1692341395233000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCpkI-N44ADFQAAAAAdAAAAABAE" style="max-height: 78px; max-width: 78px; border-radius: 20%; object-fit: cover;">
+        <img src="https://yt3.googleusercontent.com/ytc/AOPolaSmGC3jC1dovZ7mioSokF1GRZnIHodvpWifLV8fK-k=s176-c-k-c0x00ffffff-no-rj" style="max-height: 78px; max-width: 78px; border-radius: 20%; object-fit: cover;">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
